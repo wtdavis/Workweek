@@ -1,4 +1,10 @@
-
+/* body aka main aka root  */
+.react-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 .button {
     background-color: green
