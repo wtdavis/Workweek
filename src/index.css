@@ -14,11 +14,11 @@
     width: 200px;
     height: 100px;
     color: white;
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 .title {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: forestgreen;
-    
+
 }
