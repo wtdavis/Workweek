@@ -2,9 +2,15 @@
 .react-body {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
+    background-color: antiquewhite;
+    height: 100vh
 }
+
+/* main background color scheme  */
+
+
 
 .button {
     background-color: green
@@ -19,6 +25,6 @@
 
 .title {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: forestgreen;
-
+    color: rgb(28, 148, 28);
+    font-size: 50px;
 }

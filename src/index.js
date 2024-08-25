@@ -7,7 +7,7 @@ const App = function () {
         return (
                 //no styling on #root! styling "root" starts here, at react-body, aka "body"
                 <div className="react-body"> 
-
+                        
                         <h1 className="head-title title header">React is workinsgggggg!</h1>
                         <Button/>
                 </div>
